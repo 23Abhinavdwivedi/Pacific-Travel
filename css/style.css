@@ -36,7 +36,7 @@ nav{
 }
 
 nav .logo{
-    width: 60px;
+    width: 100px;
     margin: 2vh;
     margin-left: 8%;
 }
@@ -263,9 +263,9 @@ nav ul li a{
 
 .col-content img{
     margin-bottom: 40px;
-    height: 500px;
+    height: 350px;
     border-radius: 27px;
-    width: 100%;
+    width: 280px;
     
 }
 
@@ -612,7 +612,7 @@ nav ul li a{
 }
 
 .enquire-form h1{
-    font-size: 80px;
+    font-size: 40px;
     color: white;
     margin-bottom: 20px;
 }
@@ -637,10 +637,10 @@ nav ul li a{
     
 }
 .enquire-form h4{
-    font-size: 22px;
-    font-weight: 500;
+    font-size: 20px;
+    font-weight: 200;
     margin-top: 20px;
-    color: #fc0050;
+    color: white;
 }
 
 
@@ -703,7 +703,4 @@ nav ul li a{
     margin-bottom: 30px;
 }
 
-.stars i{
-    font-size: 20px;
-    color: rgb(197, 167, 44);
-}
+
